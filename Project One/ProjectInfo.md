@@ -10,7 +10,7 @@
 3. Save the Integer into a Variable (Float)
 4. Do this Equation with it:
   * (X / 2 * X ^ 2) % 6
-  * Note: Cannot use <cmath>
+  * Note: Cannot use "cmath" library
 5. Round the number to the Nearest Tenth
 6. Round the number to the Nearest Whole
 7. Print both numbers out to the Console
