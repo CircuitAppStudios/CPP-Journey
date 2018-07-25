@@ -1,7 +1,7 @@
 # Project One - Intro to C++
 ### Status - Incomplete
 ### Duration (Expected) - July 25th, 2018 to July 27th, 2018
-### Time Spent - 0 Hours and 0 Minutes (As of 07/25/18 - 5:30pm EST)
+### Time Spent - 0 Hours and 30 Minutes (As of 07/25/18 - 6:05pm EST)
 
 ### Project Requirements / Tasks
 
