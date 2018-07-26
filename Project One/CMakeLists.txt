@@ -4,9 +4,8 @@ set(CMAKE_BUILD_TYPE Debug)
 set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++11")
 set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/bin)
 
-project(text)
+project(IntroToCPP-Debug)
 
 add_executable(
-  output
-  src/main.cpp
-)
+  IntroToCPP-Debug
+  src/main.cpp src/Math.cpp src/Math.h src/Timer.h)
