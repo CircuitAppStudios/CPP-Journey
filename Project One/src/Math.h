@@ -4,9 +4,12 @@
 
 #pragma once
 
+#include <cmath>
+
 namespace Math {
 
     int pow(int base, int exp);
+    float roundToTenth(float base);
 
 }
 

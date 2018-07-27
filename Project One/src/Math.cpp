@@ -18,3 +18,8 @@ int Math::pow(int base, int exp){
 
     return result;
 }
+
+float Math::roundToTenth(float base) {
+
+    return (int ((base * 10) + 0.5))/10.0;
+}
